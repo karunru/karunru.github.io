@@ -18,10 +18,19 @@
 
 ## Skills
 
-- テーブルデータの予測
-  - Python, GBDT, CuDF
-- 画像分類
-  - PyTorch, PyTorch-Lightning, timm
+- 機械学習
+  - テーブルデータの予測
+    - Python, GBDT, CuDF
+  - 画像分類
+    - PyTorch, PyTorch-Lightning, timm
+- 数理最適化
+  - TSP, VRP
+    - OR-Tools
+- Webアプリケーション開発
+  - Spring Boot
+- 人材育成
+  - 新卒エンジニア研修
+  - 採用活動
 
 ## Competitions
 
