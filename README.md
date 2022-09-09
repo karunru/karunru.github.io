@@ -32,6 +32,17 @@
   - 新卒エンジニア研修
   - 採用活動
 
+## Wants
+
+- 機械学習，データサイエンス分野でのスキルの向上
+  - テーブルデータや画像分類など既知のスキルの深堀り
+  - MLOpsやデータエンジニアリングなど周辺技術に触れる
+  - NLP，画像セグメンテーションなど他手法の習得
+  - これらスキルの向上を業務を通して行いたい
+  - 機械学習エンジニア，データサイエンティストの元でエンジニアリング，機械学習のスキル向上
+  - スキルの向上を目指しているメンバーと切磋琢磨しながらの成長
+- 機械学習やエンジニアリングを使った課題解決
+
 ## Competitions
 
 | コンペ                                                       | 順位 (上位n%)   | 終了日     |
@@ -74,14 +85,12 @@
 
 ### 2017
 
-- [RaspberryPiを用いた教室内電子掲示板の開発](https://www.ipsj.or.jp/event/fit/fit2017/FIT2017_program_web/data/html/abstract/N-001.html) FIT2017
-  - [pdf](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/N-001.pdf)
+- [RaspberryPiを用いた教室内電子掲示板の開発](https://www.ipsj.or.jp/event/fit/fit2017/FIT2017_program_web/data/html/abstract/N-001.html) FIT2017 \[[pdf](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/N-001.pdf)\]
 - [Factorial Hidden Markov Modelsを用いたKnowledge Tracingの複数スキルへの拡張](http://www.gakkai-web.net/gakkai/ieice/G_2017/Settings/ab/d_15_034.html) 電子情報通信学会総合大会
 
 ### 2018
 
-- [Factorization Machinesを用いた教育データの解析](https://www.ipsj.or.jp/event/taikai/80/ipsj_web2018/data/pdf/6ZC-03.html) 情報処理学会 第80回全国大会
-  - [pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=189066&file_id=1&file_no=1)
+- [Factorization Machinesを用いた教育データの解析](https://www.ipsj.or.jp/event/taikai/80/ipsj_web2018/data/pdf/6ZC-03.html) 情報処理学会 第80回全国大会 \[[pdf](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=189066&file_id=1&file_no=1)\]
 
 ### 2019
 
