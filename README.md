@@ -1,21 +1,29 @@
 # karunru
 
-## about me
+## About me
 
 - やまぴー (@karunru05 [Twitter](https://twitter.com/karunru05))
 - 山下 滉 (Hikaru Yamashita)
-- 木更津高専にて情報工学，制御工学を学ぶ．
+- 木更津高専情報工学科，専攻科を通してエンジニアリング，コンピューターサイエンスの基礎を学ぶ．
+  また，3年間の研究活動において，e-learningシステムのログデータを用いた設問のレコメンデーションを題材とした研究を行い，複数の学会発表を経験．2019年アスクル株式会社に入社し，APIや画面などのwebアプリケーションの開発を行う．2021年8月に研究開発部門に異動し，ECの需要予測モデルの開発や，配送計画問題を解くアルゴリズムの実装などを行っている．業務の傍らで機械学習コンペティションに参加し，業務では扱わないようなスキルの習得や新しい技術のキャッチアップを行っている．
 - [GitHub](https://github.com/karunru/)
 - [LAPRAS](https://lapras.com/public/GV6GQ3L)
 - [Kaggle](https://www.kaggle.com/karunru)
 
-## career
+## Career
 
 - 2012 木更津高専情報工学科
 - 2017 木更津高専 制御・情報システム工学専攻
 - 2019 アスクル株式会社 エンジニア
 
-## competition
+## Skills
+
+- テーブルデータの予測
+  - Python, GBDT, CuDF
+- 画像分類
+  - PyTorch, PyTorch-Lightning, timm
+
+## Competitions
 
 | コンペ                                                       | 順位      | 終了日     |
 | ------------------------------------------------------------ | --------- | ---------- |
@@ -53,7 +61,7 @@
 
 
 
-## research
+## Researches
 
 ### 2017
 
