@@ -79,6 +79,7 @@
 | [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/) | 545/3537 (15%)  | 2022/01/14 |
 | [Kaggle-days-championship-Tokyo](https://www.kaggle.com/competitions/gapsingaps) | 29/82 (35%)     | 2022/04/22 |
 | [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) | 2011/4875 (41%) | 2022/08/24 |
+| [#14 Sansan x atmaCup](https://www.guruguru.science/competitions/20) | 21/167 (13%)    | 2022/10/23 |
 
 
 
