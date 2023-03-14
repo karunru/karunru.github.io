@@ -20,7 +20,7 @@
 
 - 機械学習
   - テーブルデータの予測
-    - Python, GBDT, CuDF
+    - Python, GBDT, CuDF, Polars
   - 画像分類
     - PyTorch, PyTorch-Lightning, timm
 - 数理最適化
@@ -80,7 +80,7 @@
 | [Kaggle-days-championship-Tokyo](https://www.kaggle.com/competitions/gapsingaps) | 29/82 (35%)     | 2022/04/22 |
 | [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) | 2011/4875 (41%) | 2022/08/24 |
 | [#14 Sansan x atmaCup](https://www.guruguru.science/competitions/20) | 21/167 (13%)    | 2022/10/23 |
-
+| [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/) | 1184/2587 (46%) | 2023/01/31 |
 
 
 ## Researches
